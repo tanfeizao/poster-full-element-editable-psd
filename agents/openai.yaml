@@ -1,0 +1,4 @@
+interface:
+  display_name: "niaoshu海报拆解skill"
+  short_description: "niaoshu 出品：将扁平海报重建为文字、图形与素材独立可编辑的 PSD"
+  default_prompt: "Use $poster-full-element-editable-psd to rebuild this flattened poster as a fully editable Photoshop PSD with a matching PNG preview."
